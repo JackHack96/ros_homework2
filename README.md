@@ -22,7 +22,12 @@ Assuming that your workspace is in `~/catkin_ws`:
 
 ## How to launch
 
-## Screenshots
+## Video
+
+## Authors
+Matteo Iervasi
+Luca Arietti
+David Alessandrini
 
 ---
 This file is part of `ros_homework2` and it is distributed under the terms of the GNU General Public License 3
