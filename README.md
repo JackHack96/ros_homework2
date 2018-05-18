@@ -5,6 +5,7 @@ Tha assignment was the following:
 > Create a Gazebo world which replicates one of these environments:
 > - A room of the Computer Science department at University of Verona
 > - A reconstruction of the TurtleBot3 auto race circuit
+
 > Then, generate and save a map of the environment using the virtual TurtleBot3 simulator.
 > Make a video showing the robot completing a path with RViz
 
