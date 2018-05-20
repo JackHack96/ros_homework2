@@ -20,7 +20,7 @@ Inside the `ros_homework2` directory there's the Collada model of the world.
 
 ## How to launch
 Be sure to have the `turtlebot3_simulations` package installed in your workspace (check [here](http://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/) for details)
-Simply clone the repository into your ROS workspace, the run `setup.sh`.
+Simply clone the repository into your ROS workspace, then run `setup.sh`.
 Assuming that your workspace is in `~/catkin_ws`:
 > `git clone https://github.com/JackHack96/ros_homework2.git`  
 > `cd ~/catkin_ws && catkin_make`
@@ -33,9 +33,9 @@ Assuming that your workspace is in `~/catkin_ws`:
 - [Gazebo](http://gazebosim.org/) for the actual simulation
 
 ## Authors
-Matteo Iervasi
-Luca Arietti
-David Alessandrini
+* Matteo Iervasi
+* Luca Arietti
+* David Alessandrini
 
 ---
 This file is part of `ros_homework2` and it is distributed under the terms of the GNU General Public License 3
