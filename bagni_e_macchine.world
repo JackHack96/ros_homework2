@@ -176,20 +176,20 @@
         <kinematic>0</kinematic>
         <gravity>1</gravity>
       </link>
-      <static>0</static>
+      <static>1</static>
       <allow_auto_disable>1</allow_auto_disable>
       <pose frame=''>0 0 0 0 -0 0</pose>
     </model>
     <state world_name='default'>
-      <sim_time>67 185000000</sim_time>
-      <real_time>67 254357058</real_time>
-      <wall_time>1526813556 148533892</wall_time>
-      <iterations>67185</iterations>
+      <sim_time>156 262000000</sim_time>
+      <real_time>89 175275905</real_time>
+      <wall_time>1526821911 796813013</wall_time>
+      <iterations>89077</iterations>
       <model name='bagni_e_macchine'>
-        <pose frame=''>0 0 0 0 -0 0</pose>
+        <pose frame=''>0 0 -1 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='link_0'>
-          <pose frame=''>0 0 0 0 -0 0</pose>
+          <pose frame=''>0 0 -1 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -211,7 +211,7 @@
     </state>
     <gui fullscreen='0'>
       <camera name='user_camera'>
-        <pose frame=''>2.17613 -3.37808 3.50889 0 0.847643 1.95219</pose>
+        <pose frame=''>2.20988 -12.8151 11.682 0 0.591643 1.50819</pose>
         <view_controller>orbit</view_controller>
         <projection_type>perspective</projection_type>
       </camera>
