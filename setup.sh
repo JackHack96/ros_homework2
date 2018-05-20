@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 cp bagni_e_macchine.world ~/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/models/.
 cp ros_homework2.launch ~/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/launch/.
-cp -r models ~/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/models/.
+cp -r ros_homework2 ~/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/models/.
 
 echo Select your turtlebot model
 echo export TURTLEBOT3_MODEL=waffle
