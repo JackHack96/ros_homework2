@@ -25,6 +25,9 @@ Assuming that your workspace is in `~/catkin_ws`:
 > `git clone https://github.com/JackHack96/ros_homework2.git`  
 > `cd ~/catkin_ws && catkin_make`
 
+## Screenshots
+![](screenshot/scr4.png)
+
 ## Video
 
 ## Used software
