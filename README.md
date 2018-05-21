@@ -26,6 +26,11 @@ Assuming that your workspace is in `~/catkin_ws`:
 > `cd ~/catkin_ws && catkin_make`
 
 ## Screenshots
+<p align="center">
+  <img width="70%" height="40%" src="screenshot/scr6.png">
+  <div>1. Creation of the map with RViz and SLAM</div>
+</p>
+
 ![](screenshot/scr4.png)
 1. Creation of the map with RViz and SLAM
 
