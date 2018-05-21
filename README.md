@@ -36,9 +36,9 @@ Assuming that your workspace is in `~/catkin_ws`:
 - [Gazebo](http://gazebosim.org/) for the actual simulation
 
 ## Authors
-* Matteo Iervasi
-* Luca Arietti
-* David Alessandrini
+* Matteo Iervasi - Bathroom model, launcher and setup file
+* Luca Arietti - Vending machine model, video recording
+* David Alessandrini - Third room model, video editing
 
 ---
 This file is part of `ros_homework2` and it is distributed under the terms of the GNU General Public License 3
