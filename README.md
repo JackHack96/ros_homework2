@@ -27,15 +27,14 @@ Assuming that your workspace is in `~/catkin_ws`:
 
 ## Screenshots
 <p align="center">
-  <img width="70%" height="40%" src="screenshot/scr6.png">
+  <img width="70%" height="40%" src="screenshot/scr4.png">
   <div align="center">1. Creation of the map with RViz and SLAM</div>
 </p>
 
-![](screenshot/scr4.png)
-1. Creation of the map with RViz and SLAM
-
-![](screenshot/scr6.png)
-2. Autonomous navigation in our map created in the previous point
+<p align="center">
+  <img width="70%" height="40%" src="screenshot/scr6.png">
+  <div align="center">2. Autonomous navigation in our map created in the previous point</div>
+</p>
 
 For other screenshots, refer to the _screenshot_ folder.
 
