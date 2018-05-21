@@ -28,7 +28,7 @@ Assuming that your workspace is in `~/catkin_ws`:
 ## Screenshots
 <p align="center">
   <img width="70%" height="40%" src="screenshot/scr6.png">
-  <div>1. Creation of the map with RViz and SLAM</div>
+  <div align="center">1. Creation of the map with RViz and SLAM</div>
 </p>
 
 ![](screenshot/scr4.png)
