@@ -27,6 +27,12 @@ Assuming that your workspace is in `~/catkin_ws`:
 
 ## Screenshots
 ![](screenshot/scr4.png)
+1. Creation of the map with RViz and SLAM
+
+![](screenshot/scr6.png)
+2. Autonomous navigation in our map created in the previous point
+
+For other screenshots, refer to the _screenshot_ folder.
 
 ## Video
 
