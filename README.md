@@ -23,7 +23,7 @@ Be sure to have the `turtlebot3_simulations` package installed in your workspace
 Simply clone the repository into your ROS workspace, then run `setup.sh`.
 Assuming that your workspace is in `~/catkin_ws`:
 > `git clone https://github.com/JackHack96/ros_homework2.git`  
-> `./setup.bash`
+> `./setup.bash`  
 > `cd ~/catkin_ws && catkin_make`
 
 ## Screenshots
