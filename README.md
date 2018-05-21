@@ -9,7 +9,7 @@ Tha assignment was the following:
 > Then, generate and save a map of the environment using the virtual TurtleBot3 simulator.
 > Make a video showing the robot completing a path with RViz
 
-We chose to make a model of the bathroom, the vending machine room and another adiacent room of the department's basement.
+We chose to make a model of the boys' bathroom, the vending machine room and another adiacent room of the department's basement.
 
 ## Package structure
 The package contains the following files:
