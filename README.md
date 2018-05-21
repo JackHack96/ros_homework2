@@ -19,11 +19,11 @@ The package contains the following files:
 Inside the `ros_homework2` directory there's the Collada model of the world.
 
 ## How to launch
-Be sure to have the `turtlebot3_simulations` package installed in your workspace (check [here](http://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/) for details)
+Be sure to have the `turtlebot3_simulations` package installed in your workspace (check [here](http://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/) for details). 
 Simply clone the repository into your ROS workspace, then run `setup.sh`.
-Assuming that your workspace is in `~/catkin_ws`:
+Assuming that your workspace is in `~/catkin_ws`, the commands are:
 > `git clone https://github.com/JackHack96/ros_homework2.git`  
-> `./setup.bash`  
+> `./setup.sh`  
 > `cd ~/catkin_ws && catkin_make`
 
 ## Screenshots
