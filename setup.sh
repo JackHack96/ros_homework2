@@ -7,7 +7,7 @@ echo Select your turtlebot model
 echo export TURTLEBOT3_MODEL=waffle
 
 echo Launch ros_homework2 with turtlebot:
-echo roslaunch ros_homework2 ros_homework2.launch
+echo roslaunch turtlebot3_gazebo ros_homework2.launch
 
 echo 
 echo Then launch Turtlebot autonomous navigation:
