@@ -39,6 +39,7 @@ Assuming that your workspace is in `~/catkin_ws`, the commands are:
 For other screenshots, refer to the _screenshot_ folder.
 
 ## Video
+<video src="video.mp4" controls preload></video>
 
 ## Used software
 - [Autodesk© AutoCAD© 2018](https://www.autodesk.it/products/autocad/overview) for modeling the world
