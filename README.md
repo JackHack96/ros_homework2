@@ -39,7 +39,10 @@ Assuming that your workspace is in `~/catkin_ws`, the commands are:
 For other screenshots, refer to the _screenshot_ folder.
 
 ## Video
-<video src="video.mp4" width="320" height="200" controls preload></video>
+<p align="center">
+  <video src="video.mp4" width="320" height="200" controls preload></video>
+  <div align="center">2. Autonomous navigation in our map created in the previous point</div>
+</p>
 
 ## Used software
 - [Autodesk© AutoCAD© 2018](https://www.autodesk.it/products/autocad/overview) for modeling the world
