@@ -39,7 +39,9 @@ Assuming that your workspace is in `~/catkin_ws`, the commands are:
 For other screenshots, refer to the _screenshot_ folder.
 
 ## Video
-<div align="center">[![Homework 2 - Univr Cyberphysical Lab](https://img.youtube.com/vi/UxcP5PAUxMA/0.jpg)](https://www.youtube.com/UxcP5PAUxMA)</div>
+<p align="center">
+[![Homework 2 - Univr Cyberphysical Lab](https://img.youtube.com/vi/UxcP5PAUxMA/0.jpg)](https://www.youtube.com/UxcP5PAUxMA)
+</p>
 
 ## Used software
 - [Autodesk© AutoCAD© 2018](https://www.autodesk.it/products/autocad/overview) for modeling the world
