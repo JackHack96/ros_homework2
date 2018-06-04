@@ -1,7 +1,7 @@
 # Univr Cyberphysical Lab course - Homework 2
 Second homework assignement of the Cyberphysical Lab course at University of Verona, academic year 2017/2018.
 
-Tha assignment was the following:
+The assignment was the following:
 > Create a Gazebo world which replicates one of these environments:
 > - A room of the Computer Science department at University of Verona
 > - A reconstruction of the TurtleBot3 auto race circuit
